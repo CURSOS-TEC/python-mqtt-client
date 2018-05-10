@@ -1,0 +1,10 @@
+{
+	"broker_address" : "m10.cloudmqtt.com",
+	"serverPort" : 12182,
+	"user" : "wymecqjv",
+	"password" : "PBnK_BZnwDZ3",
+	"topic": "soa/expo3",
+	"clientId" :"junavarro",
+	"auth": true
+
+}
